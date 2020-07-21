@@ -1,3 +1,4 @@
 file3 first commit
 second commit
 third commit brcause merge with master doesnot work without commit
+repeat third by first commiting and pushing branch3 and merge with master because after merging and pushing doesnot work
