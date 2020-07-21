@@ -1,2 +1,3 @@
 file3 first commit
 second commit
+third commit brcause merge with master doesnot work without commit
